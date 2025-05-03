@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3f9ebdbc.css",
-    "main.js": "/static/js/main.7012e6ca.js",
+    "main.js": "/static/js/main.16ee44f7.js",
     "static/js/54.ba4e4ec9.chunk.js": "/static/js/54.ba4e4ec9.chunk.js",
     "static/js/359.d578b6f6.chunk.js": "/static/js/359.d578b6f6.chunk.js",
     "static/media/logoColegio.png": "/static/media/logoColegio.eebe0e8e0254a85a94f1.png",
@@ -23,12 +23,12 @@
     "static/media/public-sans-vietnamese-400-normal.woff2": "/static/media/public-sans-vietnamese-400-normal.4490eed5a77c4164de3d.woff2",
     "index.html": "/index.html",
     "main.3f9ebdbc.css.map": "/static/css/main.3f9ebdbc.css.map",
-    "main.7012e6ca.js.map": "/static/js/main.7012e6ca.js.map",
+    "main.16ee44f7.js.map": "/static/js/main.16ee44f7.js.map",
     "54.ba4e4ec9.chunk.js.map": "/static/js/54.ba4e4ec9.chunk.js.map",
     "359.d578b6f6.chunk.js.map": "/static/js/359.d578b6f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f9ebdbc.css",
-    "static/js/main.7012e6ca.js"
+    "static/js/main.16ee44f7.js"
   ]
 }
